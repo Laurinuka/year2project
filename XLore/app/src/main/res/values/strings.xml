@@ -1,0 +1,72 @@
+<resources>
+    <!-- General Strings -->
+    <string name="app_name">XLore</string>
+    <string name="empty_string"> </string>
+    <string name="none_string">None</string>
+    <string name="employee_string">Employee</string>
+    <string name="employer_string">Employer</string>
+
+    <!-- Toolbar Strings -->
+    <string name="toolbar_profile">My Profile</string>
+    <string name="toolbar_applications">Applications</string>
+    <string name="toolbar_addjob">Add Job</string>
+    <string name="toolbar_logout">Log Out</string>
+    <string name="toolbar_addjobalert">Only employers can add jobs</string>
+
+    <!-- Create Account Strings -->
+    <string name="create_account_title">Create Account</string>
+    <string name="create_account_radio_employee">Employee</string>
+    <string name="create_account_radio_employer">Employer</string>
+    <string name="create_account_name">Name</string>
+    <string name="create_account_email">Email</string>
+    <string name="create_account_phone">Phone Number</string>
+    <string name="create_account_password">Password</string>
+    <string name="create_account_confirm_password">Confirm Password</string>
+    <string name="create_account_submit">Submit</string>
+    <string name="field_required">Field must not be empty</string>
+    <string name="invalid_email">Please enter a valid email address</string>
+    <string name="used_email">Email already in use</string>
+    <string name="short_password">Password too short</string>
+    <string name="invalid_password">Password must contain a letter, number and special character</string>
+    <string name="invalid_login">Incorrect email or password</string>
+    <string name="mismatch_passwords">Passwords mismatch</string>
+    <string name="account_success">Account created. You can now log in</string>
+
+    <!-- Master/Detail Flow Strings -->
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <!-- Login Strings -->
+    <string name="login_title">Sign In</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <!-- Main Strings -->
+    <string name="main_title">XLore</string>
+    <string name="main_sign_in">Sign In</string>
+    <string name="main_create_account">Create Account</string>
+
+    <!-- Profile Strings -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_avatar">Avatar</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_skills">Skills</string>
+    <string name="profile_bio">Bio</string>
+    <string name="profile_save">Save Changes</string>
+    <string name="profile_confirm">Changes Saved</string>
+
+    <!-- Search Strings -->
+    <string name="search_title">Search</string>
+    <string name="search_language">Language</string>
+    <string name="search_search">Search</string>
+    <string name="search_salary">Salary</string>
+    <string name="search_max_salary">Max Salary:</string>
+    <string name="search_hint">Search Hint</string>
+    <string name="title_user_list">Users</string>
+    <string name="title_user_detail">User Detail</string>
+    <string name="title_job_list">Jobs</string>
+    <string name="title_job_detail">Job Detail</string>
+</resources>
